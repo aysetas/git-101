@@ -1,5 +1,5 @@
 # git-101
-<img src="../../images.jpg" alt="kedi" border="0" aligin="right"/>
+<img src="images.jpg" alt="kedi" border="0" aligin="right"/>
 <ol>
 <li><b>İsimim:</b>Ayşe Taş<br></li>
 <li><b>Yaşım:</b> 25<br></li>
